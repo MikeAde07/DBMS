@@ -1,7 +1,7 @@
 import sqlite3
 import pandas as pd
 import tkinter as tk
-import tkinter import messagebox
+from tkinter import messagebox
 
 data_Booked = r'C:\Users\MikeA\Desktop\DBMS\booked.csv'
 data_Train = r'C:\Users\MikeA\Desktop\DBMS\Train.csv'
